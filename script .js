@@ -1,7 +1,7 @@
 const canvas = document.getElementById('basketballCanvas');
 const ctx = canvas.getContext('2d');
 
-const ballRadius = 30;
+const ballRadius = 40;
 let x = canvas.width / 2;
 let y = canvas.height - ballRadius;
 let dx = 2;
